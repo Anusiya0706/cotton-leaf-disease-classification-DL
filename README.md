@@ -1,1 +1,1 @@
-# Dee-_Learning - Cotton Leaf Disease Prediction
+# Deep_Learning - Cotton Leaf Disease Prediction
